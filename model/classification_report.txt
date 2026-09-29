@@ -1,0 +1,17 @@
+Best model: Logistic Regression
+
+                              precision    recall  f1-score   support
+
+              .NET Developer       1.00      1.00      1.00         5
+     Cloud / DevOps Engineer       1.00      0.91      0.95        11
+Data Analyst / ETL Developer       1.00      1.00      1.00         8
+              Data Scientist       1.00      1.00      1.00         8
+          Database Developer       1.00      1.00      1.00         7
+            Python Developer       1.00      1.00      1.00        10
+          QA / Test Engineer       0.95      1.00      0.97        19
+          Software Developer       1.00      1.00      1.00        17
+    Web / Frontend Developer       1.00      1.00      1.00         9
+
+                    accuracy                           0.99        94
+                   macro avg       0.99      0.99      0.99        94
+                weighted avg       0.99      0.99      0.99        94

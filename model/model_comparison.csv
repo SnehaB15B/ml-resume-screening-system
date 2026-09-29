@@ -1,0 +1,5 @@
+Model,CV F1 (mean),CV F1 (std),Test Accuracy,Test Precision (macro),Test Recall (macro),Test F1 (macro)
+Random Forest,0.9842,0.019,0.9894,0.9944,0.9899,0.9919
+Logistic Regression,0.9834,0.0206,0.9894,0.9944,0.9899,0.9919
+Linear SVM,0.9834,0.0206,0.9894,0.9944,0.9899,0.9919
+Multinomial Naive Bayes,0.9735,0.0141,0.9894,0.9944,0.9899,0.9919

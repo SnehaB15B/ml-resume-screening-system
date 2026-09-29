@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+python-docx
+nltk
+pandas
+numpy
+scipy
+matplotlib
+rake-nltk
+scikit-learn
+joblib

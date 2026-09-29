@@ -1,0 +1,136 @@
+category,term,weight
+.NET Developer,net,2.84320947053426
+.NET Developer,dot net,1.3703138214477975
+.NET Developer,asp,1.3050979791373367
+.NET Developer,dot,1.2607965463429516
+.NET Developer,asp net,1.1043701860412087
+.NET Developer,net developer,1.0382981740187456
+.NET Developer,technology dot,0.8042206080977713
+.NET Developer,mvc,0.7586467581459575
+.NET Developer,net mvc,0.6903549463457516
+.NET Developer,pune,0.6611114676765371
+.NET Developer,software developer,0.6042324374221623
+.NET Developer,sql server,0.557470961937345
+.NET Developer,semi,0.516383974492315
+.NET Developer,english pune,0.516383974492315
+.NET Developer,pune maharashtra,0.4816907662700815
+Cloud / DevOps Engineer,devops,0.9688047995821099
+Cloud / DevOps Engineer,shell,0.8618755952068454
+Cloud / DevOps Engineer,project,0.6618283231100383
+Cloud / DevOps Engineer,servers,0.6293050913714044
+Cloud / DevOps Engineer,cloud,0.5943624466584718
+Cloud / DevOps Engineer,size role,0.5793943874306764
+Cloud / DevOps Engineer,commerce,0.5778700743312568
+Cloud / DevOps Engineer,build,0.551579024285147
+Cloud / DevOps Engineer,applications,0.4976082713875631
+Cloud / DevOps Engineer,team,0.4970930702524946
+Cloud / DevOps Engineer,scripts,0.49298621943080134
+Cloud / DevOps Engineer,aws,0.4894652522538294
+Cloud / DevOps Engineer,nendrasys technologies,0.4555048996057445
+Cloud / DevOps Engineer,nendrasys,0.4555048996057445
+Cloud / DevOps Engineer,deployment,0.45104258131252445
+Data Analyst / ETL Developer,etl,2.3755754458091007
+Data Analyst / ETL Developer,informatica,1.7971152118444922
+Data Analyst / ETL Developer,talend,0.953025406766168
+Data Analyst / ETL Developer,etl developer,0.9190026862034998
+Data Analyst / ETL Developer,yes,0.8673498574494345
+Data Analyst / ETL Developer,unix,0.7058754496965904
+Data Analyst / ETL Developer,data,0.7002694557658626
+Data Analyst / ETL Developer,knowledge yes,0.6505123930870758
+Data Analyst / ETL Developer,data warehouse,0.6232232547919195
+Data Analyst / ETL Developer,warehouse,0.6232232547919195
+Data Analyst / ETL Developer,mappings,0.5854252746992503
+Data Analyst / ETL Developer,feeds,0.5617747372426541
+Data Analyst / ETL Developer,mumbai,0.5099245891522803
+Data Analyst / ETL Developer,knowledge,0.48422297349360266
+Data Analyst / ETL Developer,unit,0.4784245309216324
+Data Scientist,data,1.5002860078491047
+Data Scientist,data science,1.4224597581049847
+Data Scientist,learning,1.4049681470949718
+Data Scientist,machine,1.243248058130706
+Data Scientist,machine learning,1.1955901240411315
+Data Scientist,exprience year,1.1412092905407
+Data Scientist,year,1.0500674210687266
+Data Scientist,year months,0.9804803613450919
+Data Scientist,science,0.9340173607824624
+Data Scientist,analytics,0.9302382787436426
+Data Scientist,python,0.8112616509577072
+Data Scientist,sap,0.6418738116502273
+Data Scientist,deep,0.600461034950769
+Data Scientist,hana,0.517214321660916
+Data Scientist,analysis,0.516939548060485
+Database Developer,database,2.2178838485510797
+Database Developer,oracle,1.246258283064881
+Database Developer,installation,1.0413754166920932
+Database Developer,server,0.9409046789877419
+Database Developer,database administrator,0.9084832223818848
+Database Developer,backup,0.9005176822580039
+Database Developer,databases,0.8971692163610607
+Database Developer,administrator,0.8536981236547199
+Database Developer,rman,0.8196245560412454
+Database Developer,log,0.6809248324579423
+Database Developer,sql,0.6477574308347408
+Database Developer,issues,0.6333264722361904
+Database Developer,sql server,0.6261047685829326
+Database Developer,backups,0.5950439367093866
+Database Developer,servers,0.590813861397834
+Python Developer,python,2.4478531793301754
+Python Developer,python developer,1.4952346919168893
+Python Developer,completed,1.0011017274883458
+Python Developer,pune,0.9995019358038908
+Python Developer,django,0.9358290557257352
+Python Developer,training,0.7578449903459676
+Python Developer,completed internal,0.7519421660912319
+Python Developer,organisation,0.7424982409947031
+Python Developer,june,0.6935382709263213
+Python Developer,training completed,0.6892803189169623
+Python Developer,rest,0.6763776638990862
+Python Developer,science pune,0.6641765354159143
+Python Developer,developer,0.6133266484409301
+Python Developer,internal,0.5861741748041229
+Python Developer,movex,0.563956624568424
+QA / Test Engineer,test,1.643313478841187
+QA / Test Engineer,testing,1.6123594675465474
+QA / Test Engineer,engineer,0.6476696708068462
+QA / Test Engineer,check,0.6134934672784197
+QA / Test Engineer,automation,0.6031346809998831
+QA / Test Engineer,quality,0.6003700213786343
+QA / Test Engineer,transformer,0.592715393030658
+QA / Test Engineer,android,0.5353750623124376
+QA / Test Engineer,pcb,0.5191722004949958
+QA / Test Engineer,good,0.5079205378637498
+QA / Test Engineer,electrical,0.4706880166415568
+QA / Test Engineer,assembly,0.39788239363732597
+QA / Test Engineer,testing exprience,0.39257037462314415
+QA / Test Engineer,testing engineer,0.3900347362270088
+QA / Test Engineer,inspection,0.3790315606500683
+Software Developer,java,2.668914160683078
+Software Developer,java developer,1.7801472538067387
+Software Developer,jsp,0.8668166657321346
+Software Developer,developer,0.8124230451483268
+Software Developer,spring,0.7444847757016264
+Software Developer,hibernate,0.7167297012292626
+Software Developer,servlet,0.6902735036248455
+Software Developer,ee,0.6707397632227149
+Software Developer,ajax,0.6300705464412779
+Software Developer,developer java,0.4577501198451009
+Software Developer,jsp servlet,0.4521567680301768
+Software Developer,amravati,0.45046642536743803
+Software Developer,details august,0.4157875331296036
+Software Developer,java ee,0.4022973353151105
+Software Developer,backend,0.3868703070869067
+Web / Frontend Developer,allahabad,1.0767846701123618
+Web / Frontend Developer,salary,0.8075885025842713
+Web / Frontend Developer,bootstrap,0.7657966173210256
+Web / Frontend Developer,roles responsibility,0.7027121897681974
+Web / Frontend Developer,web,0.7010152864906167
+Web / Frontend Developer,css bootstrap,0.6563177277218702
+Web / Frontend Developer,php,0.6392359118838641
+Web / Frontend Developer,photoshop,0.6341991500331993
+Web / Frontend Developer,web designer,0.6044121303443262
+Web / Frontend Developer,designer,0.6014754645704427
+Web / Frontend Developer,ui,0.5778278117118466
+Web / Frontend Developer,bootstrap php,0.5591199393004272
+Web / Frontend Developer,graphics,0.543617293563275
+Web / Frontend Developer,nagpur,0.5416743276512793
+Web / Frontend Developer,roles,0.5393830103034567

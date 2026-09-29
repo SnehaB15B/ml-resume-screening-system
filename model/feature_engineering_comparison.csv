@@ -1,0 +1,5 @@
+Feature Set + Model,CV F1 (mean),CV F1 (std),Test F1 (macro)
+TF-IDF only + Logistic Regression,0.9834,0.0206,0.9919
+TF-IDF only + Linear SVM,0.9834,0.0206,0.9919
+TF-IDF + Engineered Features + Logistic Regression,0.9861,0.0154,0.9919
+TF-IDF + Engineered Features + Linear SVM,0.9861,0.0154,0.9919
